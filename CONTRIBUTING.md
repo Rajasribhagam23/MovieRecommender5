@@ -1,10 +1,10 @@
 ## Contributing:
 
-* If you would like to contribute and collaborate for this repository, then please intimate us through email at mvdixit@ncsu.edu
+* If you would like to contribute and collaborate for this repository, then please reach out to us through email at mvdixit@ncsu.edu
 
-## Purpose of Contributing:
+## Contribution Goals:
 
-* To develop our product and take it to next level.
+* Enhance the functionality of our application.
 * To enhance the already exisiting feature.
 * To make the product more efficient.
 * To resolve critical bugs encountered.
